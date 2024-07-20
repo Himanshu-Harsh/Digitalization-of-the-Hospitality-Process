@@ -2,7 +2,7 @@
 
 Pandas, Flask and io libraries of Python are used in this code so ensure to download it before running the code.
 
-Open terminal run the following code: pip install flask pandas
+Open terminal and run the following code: pip install flask pandas
 
 
 This is a digitalized process of hostel allotment based on the gender and group id while ensuring that the members with the same group id gets the same room.
